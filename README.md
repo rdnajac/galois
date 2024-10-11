@@ -1,2 +1,3 @@
-# galois
-Galois Field C++ library for Reed-Solomon Erasure Coding
+# Galois Field C++ library for Reed-Solomon Erasure Coding
+
+Work in progress...
